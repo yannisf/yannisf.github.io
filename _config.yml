@@ -5,3 +5,7 @@ markdown: kramdown
 
 locale: el
 lang: el
+
+minima:
+  nav_pages:
+    - about.md
