@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: post
 title: 'Η πριγκιπέσα Ιζαμπώ'
 ---
 
