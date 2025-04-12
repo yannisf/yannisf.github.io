@@ -1,6 +1,6 @@
 title: Βιβλιοσημειώσεις
 description: Σκέψεις για βιβλία που διάβασα 📚
-theme: jekyll-theme
+remote_theme: jekyll-theme-hyde
 markdown: kramdown
 
 locale: el
