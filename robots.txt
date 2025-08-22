@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yannisf.github.io/sitemap.xml

@@ -6,6 +6,9 @@ markdown: kramdown
 locale: el
 lang: el
 
+plugins:
+  - jekyll-sitemap
+
 minima:
   skin: solarized
   nav_pages:
