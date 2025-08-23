@@ -1,0 +1,63 @@
+@import "minima";
+
+/* Body background and text */
+body {
+  background-color: #002b36;  /* solarized base03 */
+  color: #839496;             /* solarized base0 */
+}
+
+/* Links */
+a {
+  color: #268bd2;             /* solarized blue */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #2aa198;             /* solarized cyan */
+  text-decoration: underline;
+}
+
+/* Header and footer */
+header, footer {
+  background-color: #073642;  /* solarized base02 */
+  color: #93a1a1;             /* solarized base1 */
+}
+
+/* Post titles */
+h1, h2, h3, h4, h5, h6 {
+  color: #b58900;             /* solarized yellow */
+}
+
+/* Navigation links */
+nav a {
+  color: #268bd2;
+}
+
+nav a:hover {
+  color: #2aa198;
+}
+
+/* Excerpts */
+.entry-summary {
+  color: #839496;             /* solarized base0 */
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 3px solid #586e75;  /* solarized base01 */
+  background-color: #073642;
+  padding-left: 1em;
+  margin-left: 0;
+  color: #93a1a1;
+}
+
+/* Code blocks */
+pre, code {
+  background-color: #073642;
+  color: #839496;
+}
+
+/* Horizontal rules */
+hr {
+  border-color: #586e75;
+}
