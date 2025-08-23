@@ -1,17 +1,10 @@
 title: Βιβλιοσημειώσεις
 description: Σκέψεις για βιβλία που διάβασα 📚
-theme: minima
-markdown: kramdown
 
 locale: el
 lang: el
 
+remote_theme: pages-themes/slate@v0.2.0
 plugins:
   - jekyll-sitemap
-
-minima:
-  skin: solarized
-  nav_pages:
-    - about.md
-  show_excerpts: true
-  hide_site_feed_link: true
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
