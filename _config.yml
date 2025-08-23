@@ -9,11 +9,7 @@ lang: el
 plugins:
   - jekyll-sitemap
 
-sass:
-  style: compressed
-
 minima:
-  skin: solarized
   nav_pages:
     - about.md
   show_excerpts: true
