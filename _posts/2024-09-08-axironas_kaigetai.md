@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ο αχυρώνας φλέγεται'
+title: 'Ο αχυρώνας φλέγεται (Ουίλλιαμ Φώκνερ)'
 ---
 
 ![Ο αχυρώνας φλέγεται, Κίχλη](/assets/o-axyronas-flegetai.jpg#center)
